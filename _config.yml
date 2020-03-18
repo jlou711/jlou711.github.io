@@ -6,7 +6,7 @@ description: Jekyll Theme Minimal Resume
 
 # User settings
 username: Jamie Lou
-user_description: I'm a Chemical Engineering graduate who has been working for Symphony as a Robotics Process Automation (RPA) consultant since 2018. Most of my experience has been with UiPath although I am also a certified BluePrism developer and have some experience with C# and web-development.
+user_description: I'm a Chemical Engineering graduate who has been working for <a href="https://www.symphonyhq.com/" target="_blank">Symphony</a> as a Robotics Process Automation (RPA) consultant since 2018. Most of my experience has been with UiPath although I am also a certified BluePrism developer and have some experience with C# and web-development.
 user_title: RPA Consultant
 email: jlou711@googlemail.com
 # twitter_username: lorem_ipsum
