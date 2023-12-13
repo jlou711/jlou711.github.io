@@ -6,8 +6,8 @@ description: Jekyll Theme Minimal Resume
 
 # User settings
 username: Jamie Lou
-user_description: I'm a Chemical Engineering graduate who has been working for <a href="https://www.sykes.com/digital/" target="_blank">Sykes Digital Services</a> (formerly Symphony) as a Robotics Process Automation (RPA) consultant since 2018. Most of my experience has been with UiPath although I am also a certified BluePrism developer and have some experience with C# and web-development.
-user_title: RPA Consultant
+user_description: Backend Software Engineer, mostly developing with TypeScript.
+user_title: Software Engineer
 email: jlou711@googlemail.com
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
@@ -17,4 +17,4 @@ email: jlou711@googlemail.com
 google-analytics:
   id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ["package.json", "src", "node_modules"]
